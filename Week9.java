@@ -1,4 +1,4 @@
-public class Week9 {
+public class Week9 { // Thread 맛보기
     public static void main(String[] args) {
         SingleThread singleThread = new SingleThread();
         MultiThread multiThread = new MultiThread();
